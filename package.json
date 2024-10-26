@@ -1,0 +1,25 @@
+{
+    "name": "create-super-vite-express-app",
+    "version": "1.0.0",
+    "description": "A CLI to scaffold a super-vite-express-app",
+    "main": "index.js",
+    "bin": {
+        "create-super-vite-express-app": "./index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/graciegould/create-super-vite-express-app.git"
+    },
+    "keywords": [
+        "vite",
+        "express",
+        "boilerplate",
+        "npx",
+        "create-app"
+    ],
+    "author": "Gracie Gould",
+    "license": "MIT",
+    "dependencies": {
+        "console-palette": "^1.0.1"
+    }
+}
