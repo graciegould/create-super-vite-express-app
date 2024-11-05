@@ -4,7 +4,7 @@
     "description": "A CLI to scaffold a super-vite-express-app",
     "main": "index.js",
     "bin": {
-        "create-super-vite-express-app": "./index.js"
+        "create-super-vite-express-app": "./cli.js"
     },
     "repository": {
         "type": "git",
